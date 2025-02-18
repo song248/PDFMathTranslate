@@ -1,9 +1,6 @@
 # Create new file
 
 <div align="center">
-
-<img src="./images/banner.png" width="320px"  alt="PDF2ZH"/>
-
 <h2 id="title">PDFMathTranslate</h2>
 
 <p>
