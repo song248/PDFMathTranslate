@@ -4,7 +4,7 @@
 
 [English](../README.md) | [简体中文](README_zh-CN.md) | [繁體中文](README_zh-TW.md) | [日本語](README_ja-JP.md) | 한국어
 
-<img src="./images/banner.png" width="320px"  alt="PDF2ZH"/>
+<img src="./docs/images/banner.png" width="320px"  alt="PDF2ZH"/>
 
 <h2 id="title">PDFMathTranslate</h2>
 
